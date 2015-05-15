@@ -1,0 +1,24 @@
+﻿{
+    "version": "1.0.0-*",
+    "description": "",
+    "authors": [ "" ],
+    "tags": [ "" ],
+    "projectUrl": "",
+    "licenseUrl": "",
+
+    "dependencies": {
+        "AutoMapper": "4.0.0-ci1046",
+        "CQSDemo.Relaties": "1.0.0-*",
+        "CQSDemo.Core": "1.0.0-*",
+        "CQSDemo.ServiceBus": ""
+    },
+
+    "frameworks": {
+        "dnx451": {
+            "frameworkAssemblies": {
+                "System.Xml": "4.0.0.0",
+                "System.Xml.Linq": "4.0.0.0"
+            }
+        }
+    }
+}

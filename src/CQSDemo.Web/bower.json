@@ -1,0 +1,10 @@
+{
+    "name": "CQSDemo.Web",
+    "private": true,
+    "dependencies": {
+        "bootstrap": "*",
+        "jquery": "*",
+        "angular": "*"
+
+    }
+}
