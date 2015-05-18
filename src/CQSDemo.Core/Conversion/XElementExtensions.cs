@@ -1,6 +1,6 @@
 using System.Xml.Linq;
 
-namespace CQSDemo.Relaties.Implementation
+namespace CQSDemo.Core.Conversion
 {
     public static class XElementExtensions
     {

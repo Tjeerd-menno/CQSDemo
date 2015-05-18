@@ -1,4 +1,4 @@
-﻿namespace CQSDemo.Core
+﻿namespace CQSDemo.Core.Conversion
 {
     public interface IObjectConverter<out TOutput, in TInput>
     {

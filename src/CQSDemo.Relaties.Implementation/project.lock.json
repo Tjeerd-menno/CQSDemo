@@ -32,16 +32,6 @@
           "compileAssemblies": [
             "lib/dnx451/AutoMapper.dll"
           ]
-        },
-        "DNXCore,Version=v5.0": {
-          "dependencies": {},
-          "frameworkAssemblies": [],
-          "runtimeAssemblies": [
-            "lib/dnxcore50/AutoMapper.dll"
-          ],
-          "compileAssemblies": [
-            "lib/dnxcore50/AutoMapper.dll"
-          ]
         }
       },
       "files": [
@@ -90,24 +80,6 @@
           "compileAssemblies": [
             "lib/dnx451/Microsoft.Framework.DependencyInjection.Interfaces.dll"
           ]
-        },
-        "DNXCore,Version=v5.0": {
-          "dependencies": {
-            "System.ComponentModel": "4.0.0-beta-22816",
-            "System.Diagnostics.Debug": "4.0.10-beta-22816",
-            "System.Globalization": "4.0.10-beta-22816",
-            "System.Linq": "4.0.0-beta-22816",
-            "System.Linq.Expressions": "4.0.10-beta-22816",
-            "System.Reflection": "4.0.10-beta-22816",
-            "System.Resources.ResourceManager": "4.0.0-beta-22816"
-          },
-          "frameworkAssemblies": [],
-          "runtimeAssemblies": [
-            "lib/dnxcore50/Microsoft.Framework.DependencyInjection.Interfaces.dll"
-          ],
-          "compileAssemblies": [
-            "lib/dnxcore50/Microsoft.Framework.DependencyInjection.Interfaces.dll"
-          ]
         }
       },
       "files": [
@@ -146,25 +118,6 @@
           "compileAssemblies": [
             "lib/dnx451/Microsoft.Framework.Logging.dll"
           ]
-        },
-        "DNXCore,Version=v5.0": {
-          "dependencies": {
-            "Microsoft.Framework.DependencyInjection.Interfaces": "1.0.0-beta4",
-            "Microsoft.Framework.Logging.Interfaces": "1.0.0-beta4",
-            "System.Collections.Concurrent": "4.0.10-beta-22816",
-            "System.Collections": "4.0.10-beta-22816",
-            "System.Diagnostics.TraceSource": "4.0.0-beta-22816",
-            "System.Globalization": "4.0.10-beta-22816",
-            "System.Linq": "4.0.0-beta-22816",
-            "System.Threading": "4.0.10-beta-22816"
-          },
-          "frameworkAssemblies": [],
-          "runtimeAssemblies": [
-            "lib/dnxcore50/Microsoft.Framework.Logging.dll"
-          ],
-          "compileAssemblies": [
-            "lib/dnxcore50/Microsoft.Framework.Logging.dll"
-          ]
         }
       },
       "files": [
@@ -198,25 +151,6 @@
           ],
           "compileAssemblies": [
             "lib/dnx451/Microsoft.Framework.Logging.Interfaces.dll"
-          ]
-        },
-        "DNXCore,Version=v5.0": {
-          "dependencies": {
-            "System.Collections": "4.0.10-beta-22816",
-            "System.Collections.Concurrent": "4.0.10-beta-22816",
-            "System.Linq": "4.0.0-beta-22816",
-            "System.Globalization": "4.0.10-beta-22816",
-            "System.Reflection": "4.0.10-beta-22816",
-            "System.Runtime": "4.0.20-beta-22816",
-            "System.Runtime.Extensions": "4.0.10-beta-22816",
-            "System.Runtime.InteropServices": "4.0.20-beta-22816"
-          },
-          "frameworkAssemblies": [],
-          "runtimeAssemblies": [
-            "lib/dnxcore50/Microsoft.Framework.Logging.Interfaces.dll"
-          ],
-          "compileAssemblies": [
-            "lib/dnxcore50/Microsoft.Framework.Logging.Interfaces.dll"
           ]
         }
       },
